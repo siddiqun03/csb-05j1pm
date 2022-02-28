@@ -1,0 +1,2 @@
+(this.webpackJsonpdigitalclock=this.webpackJsonpdigitalclock||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),i=c(3),s=c.n(i),o=(c(8),c(0));function r(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");s.a.render(Object(o.jsx)(n.StrictMode,{children:Object(o.jsx)(r,{})}),d)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.91e1e6ba.chunk.js.map
